@@ -1,3 +1,12 @@
+CRYPTONIAN – An ecryption and decryption tool
+===
+
+## Directions to use : 
+1. Download the git hub folder or clone it to 
+2. Simply run the jar file (JDK should be insatlled) 
+
+
+## Main features :
 Do you wish to convert your music to a form in which others cannot listen it? 
 Do you wish to convert your movies to a form in which others cannot watch them? 
 Do you wish to convert your documents to a form in which others cannot read them? 
