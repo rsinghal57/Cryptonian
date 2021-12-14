@@ -2,8 +2,9 @@ CRYPTONIAN – An ecryption and decryption tool
 ===
 
 ## Directions to use : 
-1. Download the git hub folder or clone it to 
+1. Download the git hub folder or clone it to your local machine
 2. Simply run the jar file (JDK should be insatlled) 
+3. Or open the project in any IDE and run the main class.
 
 
 ## Main features :
